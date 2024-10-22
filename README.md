@@ -1,4 +1,5 @@
-=) XD
-This Account is Lafite1341054's GitHub Alt!
-Please Follow Lafite1341054!
-(But,it is no login a long time......)
+My![Visitor Count](https://profile-counter.glitch.me/tabiclenexus/count.svg)visitor
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tabiclenexus)](https://github.com/Christmas/github-readme-stats)
+
+![Lafite1341054's GitHub stats](https://github-readme-stats.vercel.app/api?username=tabiclenexus&show_icons=true&theme=tokyonight)
